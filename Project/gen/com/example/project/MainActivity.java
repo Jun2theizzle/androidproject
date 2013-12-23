@@ -1,5 +1,4 @@
-
-import com.example.project.R;
+package com.example.project;
 
 import android.os.Bundle;
 import android.app.Activity;
